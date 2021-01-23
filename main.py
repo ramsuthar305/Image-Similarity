@@ -1,8 +1,6 @@
 from index_images import tree
 from search import search
 
-
-
 if __name__ == "__main__":
     treeObj = tree()
     treeObj.run()
