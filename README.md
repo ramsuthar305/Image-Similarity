@@ -5,6 +5,7 @@ This repo is to find duplicate or identical pictures and decode QR code from pic
 1. Place all your Images in `data` directory
 1. Open terminal in the folder
 1. `git clone https://github.com/ramsuthar305/Image-Similarity`
+1. `cd Image-Similarity`
 1. `pip3 install virtualenv`
 1. `virtualenv gigindia`
 1.  Activate your virtualenv
